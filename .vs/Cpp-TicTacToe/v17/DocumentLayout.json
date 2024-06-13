@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE918895-2288-4029-8863-A893D6845FC9}|Cpp-TicTacToe\\Cpp-TicTacToe.vcxproj|C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE918895-2288-4029-8863-A893D6845FC9}|Cpp-TicTacToe\\Cpp-TicTacToe.vcxproj|solutionrelative:Cpp-TicTacToe\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\Main.cpp",
+              "RelativeDocumentMoniker": "Cpp-TicTacToe\\Main.cpp",
+              "ToolTip": "C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\Main.cpp",
+              "RelativeToolTip": "Cpp-TicTacToe\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T09:28:04.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
