@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{CE918895-2288-4029-8863-A893D6845FC9}|Cpp-TicTacToe\\Cpp-TicTacToe.vcxproj|C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CE918895-2288-4029-8863-A893D6845FC9}|Cpp-TicTacToe\\Cpp-TicTacToe.vcxproj|solutionrelative:Cpp-TicTacToe\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE918895-2288-4029-8863-A893D6845FC9}|Cpp-TicTacToe\\Cpp-TicTacToe.vcxproj|C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\Detect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE918895-2288-4029-8863-A893D6845FC9}|Cpp-TicTacToe\\Cpp-TicTacToe.vcxproj|solutionrelative:Cpp-TicTacToe\\Detect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE918895-2288-4029-8863-A893D6845FC9}|Cpp-TicTacToe\\Cpp-TicTacToe.vcxproj|C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\Detect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE918895-2288-4029-8863-A893D6845FC9}|Cpp-TicTacToe\\Cpp-TicTacToe.vcxproj|solutionrelative:Cpp-TicTacToe\\Detect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE918895-2288-4029-8863-A893D6845FC9}|Cpp-TicTacToe\\Cpp-TicTacToe.vcxproj|C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\CoordArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE918895-2288-4029-8863-A893D6845FC9}|Cpp-TicTacToe\\Cpp-TicTacToe.vcxproj|solutionrelative:Cpp-TicTacToe\\CoordArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE918895-2288-4029-8863-A893D6845FC9}|Cpp-TicTacToe\\Cpp-TicTacToe.vcxproj|C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\IOError.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE918895-2288-4029-8863-A893D6845FC9}|Cpp-TicTacToe\\Cpp-TicTacToe.vcxproj|solutionrelative:Cpp-TicTacToe\\IOError.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE918895-2288-4029-8863-A893D6845FC9}|Cpp-TicTacToe\\Cpp-TicTacToe.vcxproj|C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\IOError.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE918895-2288-4029-8863-A893D6845FC9}|Cpp-TicTacToe\\Cpp-TicTacToe.vcxproj|solutionrelative:Cpp-TicTacToe\\IOError.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE918895-2288-4029-8863-A893D6845FC9}|Cpp-TicTacToe\\Cpp-TicTacToe.vcxproj|C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\CoordArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE918895-2288-4029-8863-A893D6845FC9}|Cpp-TicTacToe\\Cpp-TicTacToe.vcxproj|solutionrelative:Cpp-TicTacToe\\CoordArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +38,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Detect.cpp",
+              "DocumentMoniker": "C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\Detect.cpp",
+              "RelativeDocumentMoniker": "Cpp-TicTacToe\\Detect.cpp",
+              "ToolTip": "C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\Detect.cpp",
+              "RelativeToolTip": "Cpp-TicTacToe\\Detect.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T13:04:01.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detect.h",
+              "DocumentMoniker": "C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\Detect.h",
+              "RelativeDocumentMoniker": "Cpp-TicTacToe\\Detect.h",
+              "ToolTip": "C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\Detect.h",
+              "RelativeToolTip": "Cpp-TicTacToe\\Detect.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-14T12:59:35.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoordArray.cpp",
+              "DocumentMoniker": "C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\CoordArray.cpp",
+              "RelativeDocumentMoniker": "Cpp-TicTacToe\\CoordArray.cpp",
+              "ToolTip": "C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\CoordArray.cpp",
+              "RelativeToolTip": "Cpp-TicTacToe\\CoordArray.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T12:14:17.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoordArray.h",
+              "DocumentMoniker": "C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\CoordArray.h",
+              "RelativeDocumentMoniker": "Cpp-TicTacToe\\CoordArray.h",
+              "ToolTip": "C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\CoordArray.h",
+              "RelativeToolTip": "Cpp-TicTacToe\\CoordArray.h",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-14T12:11:27.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOError.cpp",
+              "DocumentMoniker": "C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\IOError.cpp",
+              "RelativeDocumentMoniker": "Cpp-TicTacToe\\IOError.cpp",
+              "ToolTip": "C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\IOError.cpp",
+              "RelativeToolTip": "Cpp-TicTacToe\\IOError.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T12:09:38.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOError.h",
+              "DocumentMoniker": "C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\IOError.h",
+              "RelativeDocumentMoniker": "Cpp-TicTacToe\\IOError.h",
+              "ToolTip": "C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\IOError.h",
+              "RelativeToolTip": "Cpp-TicTacToe\\IOError.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-14T12:09:33.125Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +126,9 @@
               "RelativeDocumentMoniker": "Cpp-TicTacToe\\Main.cpp",
               "ToolTip": "C:\\Users\\sheng\\OneDrive\\\u6587\u6863\\GitHub\\Cpp-TicTacToe\\Cpp-TicTacToe\\Main.cpp",
               "RelativeToolTip": "Cpp-TicTacToe\\Main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-13T09:28:04.126Z",
+              "WhenOpened": "2024-06-14T12:04:30.599Z",
               "EditorCaption": ""
             }
           ]
